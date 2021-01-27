@@ -52,7 +52,7 @@ body {
     font-weight: 400;26
     line-height: 1.733;
     color: #999;
-    background-color: #fff;
+
 }
 a:hover { text-decoration: none }
 
@@ -344,6 +344,7 @@ a:focus,input:focus,textarea:focus,button:focus{outline: 0 solid;}
 html,body,.homepage-4-hero-bg {
     width:  100%;
     height:  100%;
+    background-color: #fff;
 }
 .homepage-4-hero-bg {
   color: #fff;
